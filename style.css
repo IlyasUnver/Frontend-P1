@@ -46,8 +46,6 @@ body::-webkit-scrollbar {
     -moz-box-shadow: -2px 10px 24px -11px rgba(0, 0, 0, 0.62);
     background:var(--white);
     border-radius: 20px;
-    padding-top: 9.37rem;
-    padding-bottom: 9.37rem
 }
 
 .img-block img{
